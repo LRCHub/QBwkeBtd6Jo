@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "I Love U",
+  "base_artist": "The Chainsmokers",
+  "createdAt": "2025-12-17T07:22:29.474727Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Love U",
+      "artist": "The Chainsmokers",
+      "has_synced": false,
+      "path": "select/01_I_Love_U_The_Chainsmokers.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Love U in Me",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/02_I_Love_U_in_Me_Prince.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Love U, But I Don't Trust U Anymore (Original Version)",
+      "artist": "Prince",
+      "has_synced": false,
+      "path": "select/03_I_Love_U,_But_I_Don't_Trust_U_Anymore_(Original_Version)_Prince.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "i hate u, i love u",
+      "artist": "GNash feat. Olivia O'Brien",
+      "has_synced": true,
+      "path": "select/04_i_hate_u,_i_love_u_GNash_feat._Olivia_O'Brien.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "i hate u, i love u (feat. olivia o'brien)",
+      "artist": "Gnash",
+      "has_synced": true,
+      "path": "select/05_i_hate_u,_i_love_u_(feat._olivia_o'brien)_Gnash.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "i hate u, i love u (feat. Olivia O'Brien) [Deepend Remix]",
+      "artist": "Garrett Nash",
+      "has_synced": false,
+      "path": "select/06_i_hate_u,_i_love_u_(feat._Olivia_O'Brien)_[Deepend_Remix]_Garrett_Nash.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "i hate u, i love u (feat. olivia o'brien)",
+      "artist": "GNash feat. Olivia O'Brien",
+      "has_synced": true,
+      "path": "select/07_i_hate_u,_i_love_u_(feat._olivia_o'brien)_GNash_feat._Olivia_O'Brien.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "i hate u, i love u (feat. olivia o'brien)",
+      "artist": "gnash, Olivia O'Brien",
+      "has_synced": true,
+      "path": "select/08_i_hate_u,_i_love_u_(feat._olivia_o'brien)_gnash,_Olivia_O'Brien.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "i hate u, i love u (feat. Olivia O'Brien) [Acapella]",
+      "artist": "Garrett Nash",
+      "has_synced": false,
+      "path": "select/09_i_hate_u,_i_love_u_(feat._Olivia_O'Brien)_[Acapella]_Garrett_Nash.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Love U",
+      "artist": "Chris Brown",
+      "has_synced": true,
+      "path": "select/10_I_Love_U_Chris_Brown.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "i hate u, i love u (ft. olivia o'brien)",
+      "artist": "gnash",
+      "has_synced": true,
+      "path": "select/11_i_hate_u,_i_love_u_(ft._olivia_o'brien)_gnash.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "i hate u, i love u (feat. Olivia O'Brien) [Acapella]",
+      "artist": "Gnash",
+      "has_synced": true,
+      "path": "select/12_i_hate_u,_i_love_u_(feat._Olivia_O'Brien)_[Acapella]_Gnash.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "i hate u, i love u (feat. Olivia O'Brien) [BAYNK Remix]",
+      "artist": "Garrett Nash",
+      "has_synced": false,
+      "path": "select/13_i_hate_u,_i_love_u_(feat._Olivia_O'Brien)_[BAYNK_Remix]_Garrett_Nash.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "i hate u, i love u (feat. Olivia O'Brien) [BAYNK Remix]",
+      "artist": "Gnash",
+      "has_synced": false,
+      "path": "select/14_i_hate_u,_i_love_u_(feat._Olivia_O'Brien)_[BAYNK_Remix]_Gnash.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "i hate u, i love u (feat. Olivia O'Brien) [Deepend Remix]",
+      "artist": "Gnash",
+      "has_synced": true,
+      "path": "select/15_i_hate_u,_i_love_u_(feat._Olivia_O'Brien)_[Deepend_Remix]_Gnash.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "i hate u, i love u (feat. Olivia O'Brien) [James Yammouni Remix]",
+      "artist": "Garrett Nash",
+      "has_synced": false,
+      "path": "select/16_i_hate_u,_i_love_u_(feat._Olivia_O'Brien)_[James_Yammouni_Remix]_Garrett_Nash.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "i hate u, i love u (feat. Olivia O'Brien) [James Yammouni Remix]",
+      "artist": "Gnash",
+      "has_synced": false,
+      "path": "select/17_i_hate_u,_i_love_u_(feat._Olivia_O'Brien)_[James_Yammouni_Remix]_Gnash.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "i hate u, i love u (feat. Olivia O'Brien) [Oscar's Remix]",
+      "artist": "Garrett Nash",
+      "has_synced": false,
+      "path": "select/18_i_hate_u,_i_love_u_(feat._Olivia_O'Brien)_[Oscar's_Remix]_Garrett_Nash.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I Love U",
+      "artist": "The Chainsmokers",
+      "has_synced": false,
+      "path": "select/pl_01_I_Love_U_The_Chainsmokers.txt"
+    }
+  ]
+}
